@@ -1,0 +1,6 @@
+groq
+python-dotenv
+streamlit
+streamlit-chat
+requests
+beautifulsoup4
